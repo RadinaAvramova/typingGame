@@ -1,2 +1,2 @@
-# typingGame
-typingGame
+# Typing Game
+
